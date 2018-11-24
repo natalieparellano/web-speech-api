@@ -5,7 +5,7 @@
 - name: lock out
 - name: pirouette
   properties:
-  - direction: null
+  - to_direction: null
   - position: null
 - name: reel
   properties:
