@@ -23,7 +23,7 @@ function populateVoiceList() {
   for(i = 0; i < voices.length ; i++) {
     var option = document.createElement('option');
     option.textContent = voices[i].name + ' (' + voices[i].lang + ')';
-    
+
     if(voices[i].default) {
       option.textContent += ' -- DEFAULT';
     }
