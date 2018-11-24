@@ -1,0 +1,11 @@
+- name: stall
+  properties:
+  - poi: null
+  - from_direction: null
+  - drop: null
+  - change: null
+  - turn: null
+- name: turn
+  properties:
+  - to_direction: null
+  - rotation: null

@@ -1,0 +1,45 @@
+- name: change
+  phrase: changing the timing
+  values:
+  - true
+  - false
+- name: drop
+  phrase: using a drop stall
+  values:
+  - true
+  - false
+- name: forward_leg
+  phrase: with the %s leg forward
+  values:
+  - right
+  - left
+- name: from_direction
+  phrase: from the %s
+  values:
+  - front
+  - back
+- name: poi
+  phrase: using the %s poi
+  values:
+  - right
+  - left
+- name: position
+  phrase: with the poi at %s level
+  values:
+  - hip
+  - shoulder
+  - head
+- name: rotation
+  phrase: using a %s rotation
+  values:
+  - half
+  - quarter
+- name: to_direction
+  phrase: to the %s
+  values:
+  - right
+  - left
+- name: turn
+  values:
+  - true
+  - false
